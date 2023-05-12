@@ -12,3 +12,4 @@ Control.SetBackgroundColor(Color.Blue.ToAndroid());
 
 Смотрим что выводится на эмуляторе:
 
+![android blue button](docs/android-custom-button-background.png)
